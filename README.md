@@ -1,5 +1,5 @@
 # Yara-Inastall
-#      How to Install Yara on Windows, CentOS, Ubuntu
+# How to Install Yara on Windows, CentOS, Ubuntu
 #################################### Install YARA CentOS ####################################
 yum install epel-release
 yum install autoconf libtool
