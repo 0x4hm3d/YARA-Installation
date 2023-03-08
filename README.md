@@ -20,7 +20,7 @@ How to Install Yara on Windows, CentOS, Ubuntu
 ################################# Install YARA Ubuntu/Debian ############################
 - apt-get install automake libtool make gcc pkg-config
 - apt-get install flex bison
-- wget wget https://github.com/VirusTotal/yara/archive/refs/tags/v4.2.3.tar.gz
+- wget https://github.com/VirusTotal/yara/archive/refs/tags/v4.2.3.tar.gz
 - tar xzvf v4.2.3.tar.gz
 - cd yara-4.2.3.0
 - ./bootstrap.sh
