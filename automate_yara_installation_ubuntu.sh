@@ -1,4 +1,4 @@
-apt-get update && apt-get install -y automake libtool make gcc pkg-config && apt-get install -y flex bison libjansson-dev libmagic-dev
+apt-get update && apt-get install -y automake libtool make gcc pkg-config && apt-get install -y yara flex bison libyara8 libjansson-dev libmagic-dev
 sleep 5
 wget https://github.com/VirusTotal/yara/archive/refs/tags/v4.2.3.tar.gz && tar xzvf v4.2.3.tar.gz
 sleep 5
