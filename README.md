@@ -1,5 +1,5 @@
 # Yara-Inastall
-# How to Install Yara on Windows, CentOS, Ubuntu
+How to Install Yara on Windows, CentOS, Ubuntu
 #################################### Install YARA CentOS ####################################
 yum install epel-release
 yum install autoconf libtool
@@ -34,7 +34,7 @@ make check
 https://github.com/VirusTotal/yara/releases/download/v4.2.3/yara-4.2.3-2029-win64.zip
 https://github.com/VirusTotal/yara/releases/download/v4.2.3/yara-4.2.3-2029-win32.zip
 
-# Unzip and run the exe on Powershell or CMD
+Unzip and run the exe on Powershell or CMD
 
 
 ###########################Yara Rule#########################
