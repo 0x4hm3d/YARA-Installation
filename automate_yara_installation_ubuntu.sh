@@ -12,3 +12,5 @@ sleep 10
 make install
 sleep 10
 make check
+sleep 10
+echo "Done Injoy YARA ;)"
